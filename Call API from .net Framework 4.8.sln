@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Call API from .net Framework 4.8", "Call API from .net Framework 4.8\Call API from .net Framework 4.8.csproj", "{212541BE-47EF-4AED-9895-F06D93C737BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212541BE-47EF-4AED-9895-F06D93C737BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212541BE-47EF-4AED-9895-F06D93C737BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212541BE-47EF-4AED-9895-F06D93C737BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212541BE-47EF-4AED-9895-F06D93C737BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {671D3DDB-4E09-4FAF-A9C5-26DB3B6FDEB5}
+	EndGlobalSection
+EndGlobal
